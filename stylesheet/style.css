@@ -1,0 +1,26 @@
+.navbar-header img{
+    width: 100px;
+    height: auto;
+}
+#position img{
+    width: 20px;
+    height:auto;
+}
+#showCity{
+    margin-right: 5px;
+    color: #000000;
+}
+.shanghu-right{
+    margin-right: 10px;
+}
+.bd-ul{
+    position: relative;
+    width: 720px;
+    height: 420px;
+}
+.bd-ul-li1,.bd-ul-li2,.bd-ul-li3{
+
+}
+.bd-ul-li1{
+    background-image: url('pcimages/banner1.jpg');
+}
